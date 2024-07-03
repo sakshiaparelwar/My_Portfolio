@@ -1,1 +1,1 @@
-*Build A React.js Responsive Portfolio Website*
+*Build a React.js Responsive Portfolio Website*
